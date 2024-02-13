@@ -1,0 +1,33 @@
+_repo: Synnin-mitta-b-Kertomus-nykyaikaisesta-Lapista_72879
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Järventaus, Arvi
+    aliases:
+    - Järventaus, Heikki Arvi
+    - Jarventaus, Arvi
+    - Ockenström, Heikki Arvi
+    - Ockenstrom, Heikki Arvi
+    birthdate: 1883
+    deathdate: 1939
+    gutenberg_agent_id: '44905'
+    url: http://www.gutenberg.org/2009/agents/44905
+    wikipedia: https://fi.wikipedia.org/wiki/Arvi_J%C3%A4rventaus
+description: ''
+gutenberg_issued: '2024-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72879'
+language: fi
+pgterms:marc905: 20210303022240jrventaus
+pgterms:marc906: '1917'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bOtava, $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Synnin mitta : $b Kertomus nykyaikaisesta Lapista'
+url: http://www.gutenberg.org/ebooks/72879
